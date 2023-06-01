@@ -33,9 +33,9 @@ puts("SQL");
 puts("Some stuff I've been working on:");
 ```
 
-<a href="https://github.com/ser356/sinhex"></a><img src="https://img.shields.io/badge/-sin(hex)-26876B" alt="C"></a>
+<a href="https://github.com/ser356/sinhex"><img src="https://img.shields.io/badge/-sin(hex)-26876B" alt="C"></a>
 
-<a href="https://github.com/ser356/sets"></a><img src="https://img.shields.io/badge/-sets-ff69b4" alt="C"></a>
+<a href="https://github.com/ser356/sets"><img src="https://img.shields.io/badge/-sets-ff69b4" alt="C"></a>
 
 # Contact me
 
