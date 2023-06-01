@@ -1,6 +1,6 @@
 <!--ESTA ES MI MAIN PAGE Y AQUI VOY A PONER INFORMACIÓN IMPORTANTE QUE QUIERO QUE APAREZCA EN MI PAGINA PRINCIPAL DE github en inglés-->
 
-# Welcome to my GitHub page!
+# HELLO WORLD!
 
 # About me
 
@@ -11,13 +11,13 @@ int main(void)
 {
   puts("I'm ser356. C enjoyer. Math lover.");
   puts("Computer Engineering at University of Salamanca");
-  
+
 
 ```
 
 # Skills
 
-```c	
+```c
 puts("C");
 puts("C#");
 puts("Java");
@@ -27,29 +27,29 @@ puts("SQL");
 
 ```
 
-
 # Projects
 
 ```c
-puts("I'm currently working on:");
+puts("Some stuff I've been working on:");
 ```
-- [sinhex](https://github.com/ser356/sinhex)
 
-- [sets](https://github.com/ser356/sets)
+<a href="https://github.com/ser356/sinhex"></a><img src="https://img.shields.io/badge/-sin(hex)-26876B" alt="C"></a>
 
+<a href="https://github.com/ser356/sets"></a><img src="https://img.shields.io/badge/-sets-ff69b4" alt="C"></a>
 
 # Contact me
+
 ```c
-    puts("You can contact me via:");
+    puts("Hit me up at:");
 ```
 
+<a href="https://twitter.com/sekitosmr"><img src="https://img.shields.io/twitter/follow/sekitosmr?style=social" alt="Twitter"></a>
 
+<a href="mailto:sergiogarciaseco@usal.es" target="_blank"><img src="https://img.shields.io/badge/-Email-ff69b4" alt="Email"></a>
 
-- [Twitter](https://twitter.com/sekitosmr)
+<a href="https://www.linkedin.com/in/sergio-garc%C3%ADa-seco-721328279/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-26876B" alt="LinkedIn"></a>
 
-- [email](mailto:sergiogarciaseco@usal.es)
-
-```c	
+```c
 return 0;
 }
 ```
