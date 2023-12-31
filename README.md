@@ -18,25 +18,12 @@ int main(void)
 # Skills
 
 ```c
-puts("C");
-puts("C#");
-puts("Java");
-puts("TypeScript (Svelte, Vue)");
-puts("Dart");
-puts("SQL");
-
+puts("Bash");
+puts("SQL/Teradata");
+puts("Azure Cloud");
+puts("Python");
+puts("DWH");
 ```
-
-# Projects
-
-```c
-puts("Some stuff I've been working on:");
-```
-
-<a href="https://github.com/ser356/sinhex"><img src="https://img.shields.io/badge/-sin(hex)-26876B" alt="C"></a>
-
-<a href="https://github.com/ser356/sets"><img src="https://img.shields.io/badge/-sets-ff69b4" alt="C"></a>
-
 # Contact me
 
 ```c
