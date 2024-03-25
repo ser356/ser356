@@ -10,7 +10,7 @@ Passionate about computer engineering, C, and mathematics. Currently studying at
 ## Education & Certifications
 - Computer Engineering, University of Salamanca
 - C1 Advanced Proficiency English Test
-- AZ-Bootcamps
+- AZ-900
 
 ## Contact Me
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sergio-garcía-seco/) or follow me on [Twitter](https://twitter.com/sekitosmr). For professional inquiries, email me at [sergiogarciaseco@usal.es](mailto:sergiogarciaseco@usal.es).
